@@ -4,7 +4,7 @@ This repository consists in neural networks implementations for the MNIST datase
 
 ## Auxiliary Files
 
-Files insede the utils folder are helpers functions.
+Files inside the utils folder are helpers functions.
 
 ## Implementations
 ### dense_python.py
